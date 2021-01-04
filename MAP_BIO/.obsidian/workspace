@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "b9933b89a1cb25a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f557d55333322a2b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Нейробиология/ядра шва.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf72448659c2e4f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1567de36c30e9e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b527bc9ac43eb55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10f2d9d4669811af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79f711c87bf5a1cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "872cbee34aa96104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e729125b2df9978",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Нейробиология/ядра шва.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Нейробиология/ядра шва.md",
+    "Нейробиология/Ретикулярная формация.md",
+    "Нейробиология/голубое пятно.md",
+    "черная субстанция.md",
+    "Оглавление.md",
+    "Untitled 3.md",
+    "Нейробиология/активирующее влияние рф.md",
+    "Pasted image 20210103234111.png",
+    "ядра шва.md",
+    "нейромедиаторы.md"
+  ]
+}
